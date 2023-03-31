@@ -1,4 +1,3 @@
-# DOM-Array-Methods
 DOM Array Methods
 Welcome to the DOM Array Methods project, a powerful and easy-to-use library for working with HTML DOM elements in a more array-like fashion. This library provides a set of methods that simplify the process of selecting, manipulating, and traversing DOM elements while making your code more readable and maintainable.
 
